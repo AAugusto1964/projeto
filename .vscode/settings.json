@@ -32,5 +32,6 @@
     "GitBash": {
       "path": ["C:\\Program Files (x86)\\Git\\bin\\bash.exe"]
     }
-  }
+  },
+  "liveServer.settings.port": 5501
 }
